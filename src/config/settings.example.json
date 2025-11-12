@@ -1,0 +1,15 @@
+{
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
+  "timeoutSec": 25,
+  "useProxies": false,
+  "proxies": [
+    "http://user:pass@host:port",
+    "364a87d67519885f4520__cr.us;state.alabama;city.albertville:c55e092b8405598b@gw.dataimpulse.com:10000"
+  ],
+  "output": {
+    "format": "json",
+    "path": "data/output.json"
+  },
+  "maxReelsPerPage": 25,
+  "timezone": "Asia/Karachi"
+}
